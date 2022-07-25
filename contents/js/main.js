@@ -7,17 +7,14 @@ const headerToggle = document.getElementById('header-toggle'),
 /* Validate if constant exists */
 if(headerToggle){
     headerToggle.addEventListener('click', () =>{
-        main.classList.add('show-menu')
+        main.classList.add('show-menu');
     })
 }
 
-/*===== MENU HIDDEN =====*/
 /* Validate if constant exists */
-if(navClose){
-    navClose.addEventListener('click', () =>{
-        main.classList.remove('show-menu')
-    })
-}
+navClose.addEventListener('click', () =>{
+    main.classList.remove('show-menu')
+})
 
 /*=============== REMOVE MENU MOBILE ===============*/
 const navLink = document.querySelectorAll('.nav__link')

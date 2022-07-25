@@ -18,7 +18,6 @@
   --big-font-size: 1.5rem;
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
-  /*========== z index ==========*/
   --z-fixed: 100;
 }
 
@@ -254,6 +253,7 @@ img {
 /* Show menu */
 .show-menu {
   transform: translate(70%);
+  cursor: pointer !important;
 }
 
 /* Change background header */

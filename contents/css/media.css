@@ -65,7 +65,7 @@
         margin: 50px 0 50px 0;
     }
     .container{
-        width: 95% !important;
+        width: 100% !important;
     }
     .container .card .image{
         left: 0 !important;
@@ -158,15 +158,30 @@
         flex-wrap: wrap-reverse;
         top: 0 !important;
     }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
     .AboutUs{
         width: 300px !important;
         margin-top: 80px;
+        margin-left: 20px;
     }
-    .form-control, textarea {
-        max-width: 365px !important;
-    } 
     .AboutUs h1, h3, p{
-        width: 200px !important;
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
     }
     .slide{
         height: 94vh;
@@ -174,37 +189,25 @@
     .d-none{
         display: block !important;
     }
-    .boxOne li{
-        width: 165px !important;
-        height: 185px !important;
-    }
     .AboutIcon{
         width: 40px !important;
-    }
-    .boxOne li h2{
-        padding: 0% !important;
-        font-size: 15px !important;
-    }
-    .boxOne{
-        flex-wrap: wrap-reverse;
-        top: 0 !important;
+        margin: 20px 0 0 0  !important;
     }
     .bgShadow{
-        height: 150% !important;
+        height: 220% !important;
     }
-    .AboutUs h3{
-        width: 430px;
+    .AboutUs h3{ 
         text-align: center;
     }
-    .AboutUs p{
+    .AboutUs p{ 
         text-align: center !important;
         padding: 20px;
     }
     .AboutUs button{
-        margin-left: 14%;
+        margin-left: 25%;
         margin-bottom: 50px;
     }
-    .AboutUs h1{
+    .AboutUs h1{ 
         font-size: 40px !important;
         text-align: center;
     }
@@ -217,7 +220,7 @@
         margin: 50px 0 50px 0;
     }
     .container{
-        width: 95% !important;
+        width: 100% !important;
     }
     .container .card .image{
         left: 0 !important;
@@ -262,24 +265,9 @@
         height: 94vh;
         background-position: center;
     }
-    .boxOne ul{
-        display: flex !important;
-        flex-wrap: wrap-reverse !important;
-        width: 50% !important;
-    }
-    .bottom{
-        margin-top: 0 !important;
-    }
-    .boxOne li{
-        width: 100%;
-        height: 100%;
-    }
     .footerContent{
         flex-wrap: wrap !important;
-        text-align: center !important;
-    }
-    .footerOne p{
-        margin-left: 90px !important;
+        text-align: center;
     }
     .footerContent div{
         width: 100%;
@@ -301,7 +289,7 @@
         margin: 20px 0 20px 0 !important;
     }
     .form-control{
-        width: 400px !important;
+        width: 300px !important;
     }
     .nav__greeting{
         font-size: 40px !important;
@@ -325,9 +313,30 @@
         flex-wrap: wrap-reverse;
         top: 0 !important;
     }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
     .AboutUs{
-        width: 400px !important;
+        width: 300px !important;
         margin-top: 80px;
+        margin-left: 20px;
+    }
+    .AboutUs h1, h3, p{
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
     }
     .slide{
         height: 94vh;
@@ -335,39 +344,25 @@
     .d-none{
         display: block !important;
     }
-    .boxOne li{
-        width: 165px !important;
-        height: 185px !important;
-    }
     .AboutIcon{
         width: 40px !important;
-    }
-    .boxOne li h2{
-        padding: 0% !important;
-        font-size: 15px !important;
-    }
-    .boxOne{
-        flex-wrap: wrap-reverse;
-        top: 0 !important;
+        margin: 20px 0 0 0  !important;
     }
     .bgShadow{
-        height: 180% !important;
+        height: 220% !important;
     }
-    .AboutUs h3{
-        width: 430px;
+    .AboutUs h3{ 
         text-align: center;
     }
-    .AboutUs p{
-        width: 430px !important;
+    .AboutUs p{ 
         text-align: center !important;
         padding: 20px;
     }
     .AboutUs button{
-        margin-left: 14%;
+        margin-left: 25%;
         margin-bottom: 50px;
     }
-    .AboutUs h1{
-        width: 430px !important;
+    .AboutUs h1{ 
         font-size: 40px !important;
         text-align: center;
     }
@@ -380,7 +375,7 @@
         margin: 50px 0 50px 0;
     }
     .container{
-        width: 85% !important;
+        width: 100% !important;
     }
     .container .card .image{
         left: 0 !important;
@@ -425,18 +420,6 @@
         height: 94vh;
         background-position: center;
     }
-    .boxOne ul{
-        display: flex !important;
-        flex-wrap: wrap-reverse !important;
-        width: 50% !important;
-    }
-    .bottom{
-        margin-top: 0 !important;
-    }
-    .boxOne li{
-        width: 100%;
-        height: 100%;
-    }
     .footerContent{
         flex-wrap: wrap !important;
         text-align: center;
@@ -461,7 +444,7 @@
         margin: 20px 0 20px 0 !important;
     }
     .form-control{
-        width: 400px !important;
+        width: 300px !important;
     }
     .nav__greeting{
         font-size: 40px !important;
@@ -485,9 +468,30 @@
         flex-wrap: wrap-reverse;
         top: 0 !important;
     }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
     .AboutUs{
-        width: 500px !important;
+        width: 300px !important;
         margin-top: 80px;
+        margin-left: 20px;
+    }
+    .AboutUs h1, h3, p{
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
     }
     .slide{
         height: 94vh;
@@ -495,39 +499,25 @@
     .d-none{
         display: block !important;
     }
-    .boxOne li{
-        width: 165px !important;
-        height: 185px !important;
-    }
     .AboutIcon{
         width: 40px !important;
-    }
-    .boxOne li h2{
-        padding: 0% !important;
-        font-size: 15px !important;
-    }
-    .boxOne{
-        flex-wrap: wrap-reverse;
-        top: 0 !important;
+        margin: 20px 0 0 0  !important;
     }
     .bgShadow{
-        height: 180% !important;
+        height: 220% !important;
     }
-    .AboutUs h3{
-        width: 430px;
+    .AboutUs h3{ 
         text-align: center;
     }
-    .AboutUs p{
-        width: 430px !important;
+    .AboutUs p{ 
         text-align: center !important;
         padding: 20px;
     }
     .AboutUs button{
-        margin-left: 14%;
+        margin-left: 25%;
         margin-bottom: 50px;
     }
-    .AboutUs h1{
-        width: 430px !important;
+    .AboutUs h1{ 
         font-size: 40px !important;
         text-align: center;
     }
@@ -540,7 +530,7 @@
         margin: 50px 0 50px 0;
     }
     .container{
-        width: 85% !important;
+        width: 100% !important;
     }
     .container .card .image{
         left: 0 !important;
@@ -585,17 +575,160 @@
         height: 94vh;
         background-position: center;
     }
-    .boxOne ul{
-        display: flex !important;
-        flex-wrap: wrap-reverse !important;
-        width: 50% !important;
+    .footerContent{
+        flex-wrap: wrap !important;
+        text-align: center;
     }
-    .bottom{
-        margin-top: 0 !important;
-    }
-    .boxOne li{
+    .footerContent div{
         width: 100%;
-        height: 100%;
+    }
+    .footerContent div h1{
+        color: #fff;
+    }
+    .contact-list{
+        width: 100%;
+        margin-left: 10px !important; 
+    }
+    .send-button{
+        width: 100% !important;
+    }
+    .alt-send-button{
+        width: 100% !important;
+    }
+    .form-control, textarea{
+        margin: 20px 0 20px 0 !important;
+    }
+    .form-control{
+        width: 300px !important;
+    }
+    .nav__greeting{
+        font-size: 40px !important;
+    }
+    .navNameSpan{
+        font-size: 30px !important;
+    }
+    .nav__text{
+        font-size: 20px !important;
+        width: 300px !important;
+    }
+    .nav__link i{
+        font-size: 2rem !important;
+    }
+    .nav__link {
+        font-size: 20px;
+    }
+}
+@media (min-width: 700px) and (max-width: 799px){
+    .boxOne {
+        flex-wrap: wrap-reverse;
+        top: 0 !important;
+    }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
+    .AboutUs{
+        width: 300px !important;
+        margin-top: 80px;
+        margin-left: 20px;
+    }
+    .AboutUs h1, h3, p{
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
+    }
+    .slide{
+        height: 94vh;
+    }
+    .d-none{
+        display: block !important;
+    }
+    .AboutIcon{
+        width: 40px !important;
+        margin: 20px 0 0 0  !important;
+    }
+    .bgShadow{
+        height: 220% !important;
+    }
+    .AboutUs h3{ 
+        text-align: center;
+    }
+    .AboutUs p{ 
+        text-align: center !important;
+        padding: 20px;
+    }
+    .AboutUs button{
+        margin-left: 25%;
+        margin-bottom: 50px;
+    }
+    .AboutUs h1{ 
+        font-size: 40px !important;
+        text-align: center;
+    }
+    .carousel-item img{
+        height: 94vh !important;
+        background-position: right;
+    }
+    .list li {
+        width: 100% !important;
+        margin: 50px 0 50px 0;
+    }
+    .container{
+        width: 100% !important;
+    }
+    .container .card .image{
+        left: 0 !important;
+    }
+    ol, ul{
+        padding-left: 0 !important;
+    }
+    .header__logo, .header__toggle{
+        font-size: 20px !important;
+    }
+    #About {
+        margin-top: 2000px !important;
+        margin-bottom: 500px;
+    }
+    #contack{
+        padding-top: 100px !important;
+    }
+    .carousel-item img{
+        display: none !important;
+    }
+    .carousel-item1{
+        background-image: url(https://i.pinimg.com/564x/a4/c1/6b/a4c16bdf22062fcf56c0181965ed9d40.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item2{
+        background-image: url(https://i.pinimg.com/564x/ac/fd/11/acfd112e2be7bb614302dec327f58912.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item3{
+        background-image: url(https://i.pinimg.com/564x/49/9c/9e/499c9ea6a916142e35b28877e2018e1c.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
     }
     .footerContent{
         flex-wrap: wrap !important;
@@ -621,7 +754,7 @@
         margin: 20px 0 20px 0 !important;
     }
     .form-control{
-        width: 400px !important;
+        width: 300px !important;
     }
     .nav__greeting{
         font-size: 40px !important;
@@ -640,30 +773,314 @@
         font-size: 20px;
     }
 }
-@media (min-width: 700px) and (max-width: 799px){
-    .boxOne {
-        flex-wrap: wrap-reverse;
-        top: 0 !important;
-    }
-    .AboutUs{
-        width: 500px !important;
-        margin-top: 80px;
-    }
-}
 @media (min-width: 800px) and (max-width: 899px){
     .boxOne {
         flex-wrap: wrap-reverse;
         top: 0 !important;
     }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
     .AboutUs{
-        width: 500px !important;
+        width: 300px !important;
         margin-top: 80px;
+        margin-left: 20px;
+    }
+    .AboutUs h1, h3, p{
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
+    }
+    .slide{
+        height: 94vh;
+    }
+    .d-none{
+        display: block !important;
+    }
+    .AboutIcon{
+        width: 40px !important;
+        margin: 20px 0 0 0  !important;
+    }
+    .bgShadow{
+        height: 220% !important;
+    }
+    .AboutUs h3{ 
+        text-align: center;
+    }
+    .AboutUs p{ 
+        text-align: center !important;
+        padding: 20px;
+    }
+    .AboutUs button{
+        margin-left: 25%;
+        margin-bottom: 50px;
+    }
+    .AboutUs h1{ 
+        font-size: 40px !important;
+        text-align: center;
+    }
+    .carousel-item img{
+        height: 94vh !important;
+        background-position: right;
+    }
+    .list li {
+        width: 100% !important;
+        margin: 50px 0 50px 0;
+    }
+    .container{
+        width: 100% !important;
+    }
+    .container .card .image{
+        left: 0 !important;
+    }
+    ol, ul{
+        padding-left: 0 !important;
+    }
+    .header__logo, .header__toggle{
+        font-size: 20px !important;
+    }
+    #About {
+        margin-top: 2000px !important;
+        margin-bottom: 500px;
+    }
+    #contack{
+        padding-top: 100px !important;
+    }
+    .carousel-item img{
+        display: none !important;
+    }
+    .carousel-item1{
+        background-image: url(https://i.pinimg.com/564x/a4/c1/6b/a4c16bdf22062fcf56c0181965ed9d40.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item2{
+        background-image: url(https://i.pinimg.com/564x/ac/fd/11/acfd112e2be7bb614302dec327f58912.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item3{
+        background-image: url(https://i.pinimg.com/564x/49/9c/9e/499c9ea6a916142e35b28877e2018e1c.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .footerContent{
+        flex-wrap: wrap !important;
+        text-align: center;
+    }
+    .footerContent div{
+        width: 100%;
+    }
+    .footerContent div h1{
+        color: #fff;
+    }
+    .contact-list{
+        width: 100%;
+        margin-left: 10px !important; 
+    }
+    .send-button{
+        width: 100% !important;
+    }
+    .alt-send-button{
+        width: 100% !important;
+    }
+    .form-control, textarea{
+        margin: 20px 0 20px 0 !important;
+    }
+    .form-control{
+        width: 300px !important;
+    }
+    .nav__greeting{
+        font-size: 40px !important;
+    }
+    .navNameSpan{
+        font-size: 30px !important;
+    }
+    .nav__text{
+        font-size: 20px !important;
+        width: 300px !important;
+    }
+    .nav__link i{
+        font-size: 2rem !important;
+    }
+    .nav__link {
+        font-size: 20px;
     }
 }
 @media (min-width: 900px) and (max-width: 999px){
+    .boxOne {
+        flex-wrap: wrap-reverse;
+        top: 0 !important;
+    }
+    #contact{
+        margin-top: 160px;
+    }
+    .boxOne ul{
+        width: 100% !important;
+    }
+    .boxOne ul li{
+        width: 35%;
+    }
+    .boxOne li p{
+        width: 120px !important;
+        font-size: 13px !important;
+    }
     .AboutUs{
-        width: 500px !important;
+        width: 300px !important;
         margin-top: 80px;
+        margin-left: 20px;
+    }
+    .AboutUs h1, h3, p{
+        width: 290px !important;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 400px !important;
+    }
+    .slide{
+        height: 94vh;
+    }
+    .d-none{
+        display: block !important;
+    }
+    .AboutIcon{
+        width: 40px !important;
+        margin: 20px 0 0 0  !important;
+    }
+    .bgShadow{
+        height: 220% !important;
+    }
+    .AboutUs h3{ 
+        text-align: center;
+    }
+    .AboutUs p{ 
+        text-align: center !important;
+        padding: 20px;
+    }
+    .AboutUs button{
+        margin-left: 25%;
+        margin-bottom: 50px;
+    }
+    .AboutUs h1{ 
+        font-size: 40px !important;
+        text-align: center;
+    }
+    .carousel-item img{
+        height: 94vh !important;
+        background-position: right;
+    }
+    .list li {
+        width: 100% !important;
+        margin: 50px 0 50px 0;
+    }
+    .container{
+        width: 100% !important;
+    }
+    .container .card .image{
+        left: 0 !important;
+    }
+    ol, ul{
+        padding-left: 0 !important;
+    }
+    .header__logo, .header__toggle{
+        font-size: 20px !important;
+    }
+    #About {
+        margin-top: 2000px !important;
+        margin-bottom: 500px;
+    }
+    #contack{
+        padding-top: 100px !important;
+    }
+    .carousel-item img{
+        display: none !important;
+    }
+    .carousel-item1{
+        background-image: url(https://i.pinimg.com/564x/a4/c1/6b/a4c16bdf22062fcf56c0181965ed9d40.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item2{
+        background-image: url(https://i.pinimg.com/564x/ac/fd/11/acfd112e2be7bb614302dec327f58912.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item3{
+        background-image: url(https://i.pinimg.com/564x/49/9c/9e/499c9ea6a916142e35b28877e2018e1c.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .footerContent{
+        flex-wrap: wrap !important;
+        text-align: center;
+    }
+    .footerContent div{
+        width: 100%;
+    }
+    .footerContent div h1{
+        color: #fff;
+    }
+    .contact-list{
+        width: 100%;
+        margin-left: 10px !important; 
+    }
+    .send-button{
+        width: 100% !important;
+    }
+    .alt-send-button{
+        width: 100% !important;
+    }
+    .form-control, textarea{
+        margin: 20px 0 20px 0 !important;
+    }
+    .form-control{
+        width: 300px !important;
+    }
+    .nav__greeting{
+        font-size: 40px !important;
+    }
+    .navNameSpan{
+        font-size: 30px !important;
+    }
+    .nav__text{
+        font-size: 20px !important;
+        width: 300px !important;
+    }
+    .nav__link i{
+        font-size: 2rem !important;
+    }
+    .nav__link {
+        font-size: 20px;
     }
 }
 @media (min-width: 1000px) and (max-width: 1200px){
