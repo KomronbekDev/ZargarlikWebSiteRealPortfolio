@@ -1,0 +1,92 @@
+@media (max-width: 500px) {
+    .slide{
+        height: 94vh;
+    }
+    .carousel-item img{
+        height: 94vh !important;
+        background-position: right;
+    }
+    .list li {
+        width: 100% !important;
+        margin: 50px 0 50px 0;
+    }
+    .container{
+        width: 100% !important;
+    }
+    .container .card .image{
+        left: 0 !important;
+    }
+    ol, ul{
+        padding-left: 0 !important;
+    }
+    .header__logo, .header__toggle{
+        font-size: 20px !important;
+    }
+    #About {
+        margin-top: 2000px !important;
+        margin-bottom: 500px;
+    }
+    #contack{
+        padding-top: 100px !important;
+    }
+    .carousel-item img{
+        display: none !important;
+    }
+    .carousel-item1{
+        background-image: url(https://i.pinimg.com/564x/a4/c1/6b/a4c16bdf22062fcf56c0181965ed9d40.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item2{
+        background-image: url(https://i.pinimg.com/564x/ac/fd/11/acfd112e2be7bb614302dec327f58912.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .carousel-item3{
+        background-image: url(https://i.pinimg.com/564x/49/9c/9e/499c9ea6a916142e35b28877e2018e1c.jpg) !important;
+        background-size: cover;
+        z-index: 10;
+        width: 100%;
+        height: 94vh;
+        background-position: center;
+    }
+    .boxOne ul{
+        display: block !important;
+    }
+    .bottom{
+        margin-top: 0 !important;
+    }
+    .boxOne li{
+        width: 100%;
+        height: 100%;
+    }
+    .footerContent{
+        flex-wrap: wrap !important;
+        text-align: center;
+    }
+    .footerContent div{
+        width: 100%;
+    }
+    .footerContent div h1{
+        color: #fff;
+    }
+    .contact-list{
+        width: 100%;
+        margin-left: 10px !important; 
+    }
+    .send-button{
+        width: 72% !important;
+    }
+    .alt-send-button{
+        width: 100% !important;
+    }
+    .form-control, textarea{
+        margin: 20px 0 20px 0 !important;
+    }
+}
