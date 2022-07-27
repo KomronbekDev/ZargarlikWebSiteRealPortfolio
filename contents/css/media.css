@@ -275,6 +275,9 @@
     .footerContent div h1{
         color: #fff;
     }
+    .footerOne h1,p{
+        margin-left: 50px !important;
+    }
     .contact-list{
         width: 100%;
         margin-left: 10px !important; 
