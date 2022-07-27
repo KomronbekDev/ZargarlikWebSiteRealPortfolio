@@ -11,10 +11,13 @@
     }
     .boxOne ul li{
         width: 35%;
+        height: 40%;
     }
     .boxOne li p{
         width: 120px !important;
-        font-size: 13px !important;
+        font-size: 11px !important;
+        padding: 0 0 40px 0 !important;
+        margin: 0 !important;
     }
     .AboutUs{
         width: 300px !important;
@@ -22,8 +25,12 @@
         margin-left: 20px;
     }
     .AboutUs h1, h3, p{
-        width: 290px !important;
+        width: 260px !important;
         margin-top: 20px;
+        margin-left: 0 !important;
+    }
+    .carousel-caption p {
+        margin-left: 0 !important;
     }
     footer{
         margin-top: 400px !important;
@@ -46,7 +53,8 @@
     }
     .AboutUs p{ 
         text-align: center !important;
-        padding: 20px;
+        padding: 20px !important;
+        margin: 0 !important;
     }
     .AboutUs button{
         margin-left: 25%;
@@ -137,23 +145,35 @@
         width: 300px !important;
     }
     .nav__greeting{
-        font-size: 40px !important;
+        font-size: 30px !important;
     }
     .navNameSpan{
-        font-size: 30px !important;
+        font-size: 20px !important;
     }
     .nav__text{
         font-size: 20px !important;
         width: 300px !important;
     }
     .nav__link i{
-        font-size: 2rem !important;
+        font-size: 1.5rem !important;
     }
     .nav__link {
         font-size: 20px;
     }
     .footerOne h1,p{
-        margin-left: 50px !important;
+        margin-left: 30px !important;
+    }
+    .btn-primary{
+        margin-left: 0 !important;
+    }
+    #contack {
+        padding-top: 200px !important;
+        margin-bottom: 600px;
+    }
+    .nav__data p {
+        font-size: 15px !important;
+        width: 200px !important;
+        margin: 0 !important;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
