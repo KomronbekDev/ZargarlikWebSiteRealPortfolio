@@ -149,8 +149,8 @@ img {
 .nav__greeting {
   display: block;
   color: #dcbd0a;
-  font-size: 20px;
-  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  font-family: 'EB Garamond', serif;
   font-weight: 500;
   margin-bottom: .25rem;
 }
@@ -240,8 +240,9 @@ img {
 
 .header__logo {
   color: #dcbd0a;
-  font-weight:560;
-  font-family: 'Indie Flower', cursive;
+  font-weight:760;
+  font-size: 40px;
+  font-family: 'EB Garamond', serif;
 }
 .header__logo:hover{
   color: #111;
@@ -964,4 +965,13 @@ footer{
 .like_btn{
   border: none;
   background-color: transparent;
+}
+.testMode{
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  height: 30px;
+  background-color: red;
+  z-index: 10;
 }
