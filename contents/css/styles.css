@@ -108,7 +108,7 @@ img {
   font-size: 1.8rem;
   color: var(--text-color-dark);
   cursor: pointer;
-  margin-bottom: 3.5rem;
+  margin-bottom: 200px;
 }
 
 .nav__img {
@@ -184,6 +184,7 @@ img {
   display: flex;
   flex-direction: column;
   row-gap: 0.5rem;
+  padding-left: 0 !important;
 }
 
 .nav__link {
@@ -268,12 +269,6 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 320px) {
-  .container {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-}
 
 /* For medium devices */
 @media screen and (min-width: 767px) {
@@ -555,6 +550,7 @@ img {
   width: 100px;
 }
 .boxOne ul{
+  margin-top: 0px;
   width: 70%;
   display: flex;
   flex-wrap: wrap;
